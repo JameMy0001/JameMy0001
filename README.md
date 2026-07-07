@@ -1,11 +1,9 @@
-<!-- Dynamic Header with Typing Animation -->
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Hi%20there%2C%20I%27m%20Jame%20%F0%9F%91%8B;Building%20Scalable%20%26%20Performant%20Apps" alt="Typing SVG" />
 </div>
 
 <br />
 
-<!-- Intro & Core Focus -->
 <div align="center">
   <p align="center">
     <a href="mailto:jamerrmool@gmail.com">
