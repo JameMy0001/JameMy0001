@@ -23,16 +23,16 @@
 
 <hr />
 
-### 🎯 Core Expertise
+###  Core Expertise
 
-*   **Software Architecture:** Domain-Driven Design (DDD), Clean Architecture, Solid design principles.
+*   **Software Architecture:** Domain-Driven Design (DDD)
 *   **Mobile Development:** Cross-platform React Native / Native-like experience, state management (Redux, Zustand), offline-first caching.
 *   **Full-Stack Ecosystems:** Responsive React frontends, robust Node.js APIs, database design, and optimization.
 *   **DevOps & Automation:** CI/CD pipelines, containerization (Docker), automated testing (Jest, Detox).
 
 <br />
 
-### 🛠️ Tech Stack & Tooling
+###  Tech Stack & Tooling
 
 <table>
   <tr>
