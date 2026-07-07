@@ -16,13 +16,9 @@
     <a href="mailto:jamerrmool@gmail.com">
       <img src="https://img.shields.io/badge/Contact%20Me-Email-008080?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
     </a>
-    <a href="https://linkedin.com/in/your-profile">
+    <a href="[https://linkedin.com/in/your-profile](https://www.linkedin.com/in/thanadet-churabum-6a4908417/)">
       <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
-    <a href="https://yourportfolio.dev">
-      <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-10B981?style=flat-square&logo=google-chrome&logoColor=white" alt="Portfolio" />
-    </a>
-  </p>
 </div>
 
 <hr />
