@@ -1,6 +1,6 @@
 <!-- Dynamic Header with Typing Animation -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Jame+👋;Senior+Software+Engineer;Mobile+%26+Full+Stack+Developer;Building+Scalable+%26+Performant+Apps" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Hi%20there%2C%20I%27m%20Jame%20%F0%9F%91%8B;Building%20Scalable%20%26%20Performant%20Apps" alt="Typing SVG" />
 </div>
 
 <br />
@@ -13,7 +13,7 @@
   </p>
   
   <p align="center">
-    <a href="mailto:your.email@example.com">
+    <a href="mailto:jamerrmool@gmail.com">
       <img src="https://img.shields.io/badge/Contact%20Me-Email-008080?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
     </a>
     <a href="https://linkedin.com/in/your-profile">
@@ -71,41 +71,3 @@
 </table>
 
 <br />
-
-### 🚀 Featured Engineering Projects
-
-*   **📱 [mobile-MaCheck](https://github.com/JameMy001/mobile-MaCheck)**
-    *   *Description:* An offline-first, high-performance mobile application engineered to streamline productivity and data tracking. Built with React Native, TypeScript, and local database syncing.
-    *   *Key Highlights:* Integrated secure SQLite local storage, optimized rendering performance to maintain 60 FPS, and engineered modular, clean state management with Zustand.
-    
-*   **💤 [sweetdreams](https://github.com/JameMy001/sweetdreams)**
-    *   *Description:* A feature-rich interactive web/mobile utility focused on sleep tracking and optimization analytics. 
-    *   *Key Highlights:* Crafted custom interactive SVG charts to visualize user habits, optimized page-load performance, and implemented local background tasks for routine notifications.
-
-<hr />
-
-### 📊 Github Metrics
-
-<div align="center">
-  <table border="0">
-    <tr>
-      <td width="50%" align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=JameMy001&show_icons=true&theme=tokyonight&hide_border=true&title_color=38BDF8&icon_color=38BDF8&text_color=94A3B8&bg_color=0F172A" alt="Jame's GitHub Stats" width="400px" />
-      </td>
-      <td width="50%" align="center">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JameMy001&layout=compact&theme=tokyonight&hide_border=true&title_color=38BDF8&text_color=94A3B8&bg_color=0F172A" alt="Jame's Top Languages" width="400px" />
-      </td>
-    </tr>
-    <tr>
-      <td colspan="2" align="center">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=JameMy001&theme=tokyonight&hide_border=true&ring=38BDF8&fire=38BDF8&currStreakNum=38BDF8&sideLabels=94A3B8&stroke=38BDF8&background=0F172A" alt="GitHub Streak Stats" width="800px" />
-      </td>
-    </tr>
-  </table>
-</div>
-
-<br />
-
-<div align="center">
-  <sub>Designed with ❤️ by Jame | Built for scalability and performance.</sub>
-</div>
