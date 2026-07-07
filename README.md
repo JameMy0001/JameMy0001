@@ -1,9 +1,11 @@
+<!-- Dynamic Header with Typing Animation -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Jame+👋;Developer;Building+Scalable+%26+Performant+Apps" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Jame+👋;Senior+Software+Engineer;Mobile+%26+Full+Stack+Developer;Building+Scalable+%26+Performant+Apps" alt="Typing SVG" />
 </div>
 
 <br />
 
+<!-- Intro & Core Focus -->
 <div align="center">
   <p align="center">
     <strong>Senior Software Engineer</strong> specializing in crafting high-performance mobile apps and robust full-stack web architectures.<br />
