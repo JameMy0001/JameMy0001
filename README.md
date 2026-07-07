@@ -8,11 +8,6 @@
 <!-- Intro & Core Focus -->
 <div align="center">
   <p align="center">
-    <strong>Senior Software Engineer</strong> specializing in crafting high-performance mobile apps and robust full-stack web architectures.<br />
-    Driven by clean code, clean architecture, and delivering delightful user experiences.
-  </p>
-  
-  <p align="center">
     <a href="mailto:jamerrmool@gmail.com">
       <img src="https://img.shields.io/badge/Contact%20Me-Email-008080?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
     </a>
