@@ -11,7 +11,7 @@
     </a>
     <a href="[https://linkedin.com/in/your-profile](https://www.linkedin.com/in/thanadet-churabum-6a4908417/)">
       <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
-      <iframe src="https://github.com/sponsors/JameMy0001/button" title="Sponsor JameMy0001" height="32" width="114" style="border: 0; border-radius: 6px;"></iframe>
+     
     </a>
 </div>
 
