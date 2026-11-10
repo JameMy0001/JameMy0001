@@ -12,7 +12,6 @@
     <a href="[https://linkedin.com/in/your-profile](https://www.linkedin.com/in/thanadet-churabum-6a4908417/)">
       <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
      
-    </a>
 </div>
 
 <hr />
