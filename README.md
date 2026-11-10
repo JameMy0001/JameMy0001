@@ -9,9 +9,13 @@
     <a href="mailto:jamerrmool@gmail.com">
       <img src="https://img.shields.io/badge/Contact%20Me-Email-008080?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
     </a>
-    <a href="[https://linkedin.com/in/your-profile](https://www.linkedin.com/in/thanadet-churabum-6a4908417/)">
+    <a href="https://www.linkedin.com/in/thanadet-churabum-6a4908417/">
       <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
-     
+    </a>
+    <a href="https://github.com/sponsors/JameMy0001">
+      <img src="https://img.shields.io/badge/Sponsor-JameMy0001-EA4AAA?style=flat-square&logo=github-sponsors&logoColor=white" alt="Sponsor" />
+    </a>
+  </p>
 </div>
 
 <hr />
